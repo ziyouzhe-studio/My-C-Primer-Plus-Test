@@ -1,0 +1,30 @@
+# Compiled output
+dist/
+tmp/
+out-tmp/
+# Node
+node_modules/
+.angular/
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+# OS metadata
+.DS_Store
+Thumbs.db
+# Compiled output
+*.class
+*.dll
+*.exe
+*.war
+*.jar
+# Log files
+*.log
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+

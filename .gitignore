@@ -14,6 +14,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 # Compiled output
+output/
+*.exe
 *.class
 *.dll
 *.exe
@@ -27,4 +29,3 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
-

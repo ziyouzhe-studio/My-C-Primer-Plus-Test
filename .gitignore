@@ -2,6 +2,7 @@
 dist/
 tmp/
 out-tmp/
+build/
 # Node
 node_modules/
 .angular/

@@ -1,4 +1,7 @@
 # Compiled output
+.ilk
+.obj
+.pdb
 dist/
 tmp/
 out-tmp/
